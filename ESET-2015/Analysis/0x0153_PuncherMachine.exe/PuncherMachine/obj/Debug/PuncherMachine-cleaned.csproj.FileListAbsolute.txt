@@ -1,0 +1,18 @@
+C:\Users\Marco\Desktop\PuncherMachine-cleaned\obj\Debug\PuncherMachine-cleaned.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Desktop\PuncherMachine-cleaned\obj\Debug\PuncherMachine-cleaned.csproj.GenerateResource.Cache
+C:\Users\Marco\Desktop\PuncherMachine-cleaned\bin\Debug\PuncherMachine.exe
+C:\Users\Marco\Desktop\PuncherMachine-cleaned\bin\Debug\PuncherMachine.pdb
+C:\Users\Marco\Desktop\PuncherMachine-cleaned\obj\Debug\PuncherMachine.exe
+C:\Users\Marco\Desktop\PuncherMachine-cleaned\obj\Debug\PuncherMachine.pdb
+C:\Users\Marco\Desktop\PuncherMachine-cleaned\obj\Debug\PuncherMachine.GForm0.resources
+C:\Users\Marco\Desktop\PuncherMachine-cleaned\obj\Debug\ns0.Resource.resources
+C:\Users\Marco\Desktop\ESET CrackMe_2\Analysis\0x0153_PuncherMachine.exe\PuncherMachine-CurrentWorkingVersion\obj\Debug\PuncherMachine.exe
+C:\Users\Marco\Desktop\ESET CrackMe_2\Analysis\0x0153_PuncherMachine.exe\PuncherMachine-CurrentWorkingVersion\obj\Debug\PuncherMachine.pdb
+C:\Users\Marco\Desktop\ESET CrackMe_2\Analysis\0x0153_PuncherMachine.exe\PuncherMachine-CurrentWorkingVersion\bin\Debug\PuncherMachine.exe
+C:\Users\Marco\Desktop\ESET CrackMe_2\Analysis\0x0153_PuncherMachine.exe\PuncherMachine-CurrentWorkingVersion\bin\Debug\PuncherMachine.pdb
+C:\Users\Marco\Desktop\ESET CrackMe_2\Analysis\0x0153_PuncherMachine.exe\PuncherMachine-CurrentWorkingVersion\obj\Debug\PuncherMachine-cleaned.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Desktop\ESET CrackMe_2\Analysis\0x0153_PuncherMachine.exe\PuncherMachine-CurrentWorkingVersion\obj\Debug\ns0.Resource.resources
+C:\Users\Marco\Desktop\ESET CrackMe_2\Analysis\0x0153_PuncherMachine.exe\PuncherMachine-CurrentWorkingVersion\obj\Debug\PuncherMachine.GForm0.resources
+C:\Users\Marco\Desktop\ESET CrackMe_2\Analysis\0x0153_PuncherMachine.exe\PuncherMachine-CurrentWorkingVersion\obj\Debug\PuncherMachine-cleaned.csproj.GenerateResource.Cache
+C:\Users\Marco\Desktop\REProjects\ESET\ESET CrackMe_2\Analysis\0x0153_PuncherMachine.exe\PuncherMachine\obj\Debug\PuncherMachine.exe
+C:\Users\Marco\Desktop\REProjects\ESET\ESET CrackMe_2\Analysis\0x0153_PuncherMachine.exe\PuncherMachine\obj\Debug\PuncherMachine.pdb

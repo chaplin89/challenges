@@ -1,0 +1,6 @@
+\REGISTRY\MACHINE\SYSTEM\ControlSet001\services\Crackme_drv\Parameters\
+
+RootDirEntries, 	DWORD, 0x200
+SectorsPerCluster, 	DWORD, 0x0002
+DriveLetter,		LPSZ
+DiskSize,		DWORD, 0x1E00000, 

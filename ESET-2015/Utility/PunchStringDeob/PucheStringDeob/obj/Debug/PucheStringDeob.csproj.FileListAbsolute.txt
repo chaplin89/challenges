@@ -1,0 +1,12 @@
+c:\users\marco\documents\visual studio 2015\Projects\PucheStringDeob\PucheStringDeob\bin\Debug\PucheStringDeob.exe.config
+c:\users\marco\documents\visual studio 2015\Projects\PucheStringDeob\PucheStringDeob\bin\Debug\PucheStringDeob.exe
+c:\users\marco\documents\visual studio 2015\Projects\PucheStringDeob\PucheStringDeob\bin\Debug\PucheStringDeob.pdb
+c:\users\marco\documents\visual studio 2015\Projects\PucheStringDeob\PucheStringDeob\obj\Debug\PucheStringDeob.csprojResolveAssemblyReference.cache
+c:\users\marco\documents\visual studio 2015\Projects\PucheStringDeob\PucheStringDeob\obj\Debug\PucheStringDeob.exe
+c:\users\marco\documents\visual studio 2015\Projects\PucheStringDeob\PucheStringDeob\obj\Debug\PucheStringDeob.pdb
+C:\Users\Marco\Desktop\ESET CrackMe_2\Utility\PunchStringDeob\PucheStringDeob\bin\Debug\PucheStringDeob.exe.config
+C:\Users\Marco\Desktop\ESET CrackMe_2\Utility\PunchStringDeob\PucheStringDeob\obj\Debug\PucheStringDeob.exe
+C:\Users\Marco\Desktop\ESET CrackMe_2\Utility\PunchStringDeob\PucheStringDeob\obj\Debug\PucheStringDeob.pdb
+C:\Users\Marco\Desktop\ESET CrackMe_2\Utility\PunchStringDeob\PucheStringDeob\bin\Debug\PucheStringDeob.exe
+C:\Users\Marco\Desktop\ESET CrackMe_2\Utility\PunchStringDeob\PucheStringDeob\bin\Debug\PucheStringDeob.pdb
+C:\Users\Marco\Desktop\ESET CrackMe_2\Utility\PunchStringDeob\PucheStringDeob\obj\Debug\PucheStringDeob.csprojResolveAssemblyReference.cache

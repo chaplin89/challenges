@@ -1,0 +1,9 @@
+c:\users\marco\documents\visual studio 2015\Projects\ExtractKey\ExtractKey\bin\Debug\ExtractKey.exe.config
+c:\users\marco\documents\visual studio 2015\Projects\ExtractKey\ExtractKey\bin\Debug\ExtractKey.exe
+c:\users\marco\documents\visual studio 2015\Projects\ExtractKey\ExtractKey\bin\Debug\ExtractKey.pdb
+c:\users\marco\documents\visual studio 2015\Projects\ExtractKey\ExtractKey\obj\Debug\ExtractKey.csprojResolveAssemblyReference.cache
+c:\users\marco\documents\visual studio 2015\Projects\ExtractKey\ExtractKey\obj\Debug\ExtractKey.exe
+c:\users\marco\documents\visual studio 2015\Projects\ExtractKey\ExtractKey\obj\Debug\ExtractKey.pdb
+C:\Users\Marco\Desktop\ESET CrackMe_2\Utility\ExtractKey\ExtractKey\bin\Debug\ExtractKey.exe.config
+C:\Users\Marco\Desktop\ESET CrackMe_2\Utility\ExtractKey\ExtractKey\obj\Debug\ExtractKey.exe
+C:\Users\Marco\Desktop\ESET CrackMe_2\Utility\ExtractKey\ExtractKey\obj\Debug\ExtractKey.pdb

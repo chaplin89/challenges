@@ -1,0 +1,10 @@
+C:\Users\Marco\Desktop\PunchCardReader-cleaned\obj\Debug\PunchCardReader-cleaned.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Desktop\PunchCardReader-cleaned\obj\Debug\ns0.Class2.resources
+C:\Users\Marco\Desktop\PunchCardReader-cleaned\obj\Debug\ns0.GForm0.resources
+C:\Users\Marco\Desktop\PunchCardReader-cleaned\obj\Debug\PunchCardReader-cleaned.csproj.GenerateResource.Cache
+C:\Users\Marco\Desktop\PunchCardReader-cleaned\bin\Debug\PunchCardReader.exe
+C:\Users\Marco\Desktop\PunchCardReader-cleaned\bin\Debug\PunchCardReader.pdb
+C:\Users\Marco\Desktop\PunchCardReader-cleaned\obj\Debug\PunchCardReader.exe
+C:\Users\Marco\Desktop\PunchCardReader-cleaned\obj\Debug\PunchCardReader.pdb
+C:\Users\Marco\Desktop\REProjects\ESET\ESET CrackMe_2\Analysis\0x0154_PunchCardReader.exe\PunchCardReader\obj\Debug\PunchCardReader.exe
+C:\Users\Marco\Desktop\REProjects\ESET\ESET CrackMe_2\Analysis\0x0154_PunchCardReader.exe\PunchCardReader\obj\Debug\PunchCardReader.pdb

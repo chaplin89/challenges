@@ -1,0 +1,5 @@
+C:\Users\marco.fornaro\Desktop\WTF proj\VerificationDynMethod\bin\Debug\VerificationDynMethod.dll
+C:\Users\marco.fornaro\Desktop\WTF proj\VerificationDynMethod\bin\Debug\VerificationDynMethod.pdb
+C:\Users\marco.fornaro\Desktop\WTF proj\VerificationDynMethod\obj\Debug\VerificationDynMethod.csprojResolveAssemblyReference.cache
+C:\Users\marco.fornaro\Desktop\WTF proj\VerificationDynMethod\obj\Debug\VerificationDynMethod.dll
+C:\Users\marco.fornaro\Desktop\WTF proj\VerificationDynMethod\obj\Debug\VerificationDynMethod.pdb

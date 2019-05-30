@@ -1,0 +1,31 @@
+Injected: 0x01
+Injected: 0xBB01
+Main: 0x01
+Main: 0xBB01
+Main: 0x0000007B
+Main:
+Encrypted
+	02F218C0  68 7F 69 07 63 70 15 7C  16 7B 14 07 61 7F 16 77  h.i.cp.|.{..a..w
+	02F218D0  11 7E 67 74 11 7A 11 76  68 0F 16 73 65 7F 15 75  .~gt.z.vh..se..u
+	02F218E0  65 79 12 07 61 71 68 77  50 79 16 76 60 78 68 74  ey..aqhwPy.v`xht
+	02F218F0  13 0F 63 04 69 71 65 72  63 7F 60 04 63 78 63 01  ..c.iqerc.`.cxc.
+	02F21900  12 70 65 01 65 08 61 73  69 0B 15 01 67 0A 13 76  .pe.e.asi...g..v
+	02F21910  67 49 60 07 66 08 61 06  66 7F 65 74 14 78 15 07  gI`.f.a.f.et.x..
+	02F21920  65 0B 14 77 61 0D 16 70  69 7B 61 77 66 78 66 7C  e..wa..pi{awfxf|
+	02F21930  67 08 11 74 65 70 63 07  67 0C 50                 g..tepc.g.P
+Decrypted
+	869B39E9F2DB16F2A771A3A38FF656E050BB1882
+	0F30181CF3A9857360A313DB95D5A169BED7CC37
+	0B6A1C6651D1EB5BD21DF5921261697AA1593B7E
+
+Injected: 0x01
+Injected: 0xBB02
+Main: 0x01
+Main: 0xBB02
+Main: 0x00000011
+Main:
+Encrypted
+	01204DC0  02 0F 06 74 31 1F 64 23  01 78 16 3C 34 0F 28 2E  ...t1.d#.x.<4.(.
+	01204DD0  50                                                P
+Decrypted
+	RFV1aV4fQ1FydFxk
