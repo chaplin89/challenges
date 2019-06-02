@@ -1,2 +1,2 @@
-# challenges
-Collection of challenges and solutions
+# Challenges
+Collection of challenges and solutions.
